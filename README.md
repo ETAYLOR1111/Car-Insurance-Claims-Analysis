@@ -5,10 +5,10 @@ The dataset, sourced from Kaggle, contains 8149 policyholders with demographic, 
 The analysis compares claim behaviour across policyholder groups to identify factors that could support premium pricing decisions.
 
 # Dataset
-Source: Kaggle
-Link: https://www.kaggle.com/datasets/sagnik1511/car-insurance-data/data
-Rows: 8149
-Attributes: demographic, behavioural, vehicle-related
+- Source: Kaggle
+- Link: https://www.kaggle.com/datasets/sagnik1511/car-insurance-data/data
+- Rows: 8149
+- Attributes: demographic, behavioural, vehicle-related
 
 # Tools Used
 - MySQL
