@@ -4,6 +4,12 @@ This project uses MySQL to analyse car insurance claims and identify policyholde
 The dataset, sourced from Kaggle, contains 8149 policyholders with demographic, behavioural and vehicle-related attributes.
 The analysis compares claim behaviour across policyholder groups to identify factors that could support premium pricing decisions.
 
+# Dataset
+Source: Kaggle
+Link: https://www.kaggle.com/datasets/sagnik1511/car-insurance-data/data
+Rows: 8149
+Attributes: demographic, behavioural, vehicle-related
+
 # Tools Used
 - MySQL
 - Visual Studio Code
